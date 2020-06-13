@@ -1,5 +1,5 @@
 # image_classification
-## DL-Model-Flask-Deployment
+## DeepLearning-Image-Classification-Model-Flask-Deployment
 This is a demo project to elaborate how Deep Learning Models are deployed on production using Flask API
 
 ### Prerequisites
