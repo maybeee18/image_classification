@@ -21,6 +21,6 @@ python app.py
 ```
 By default, flask will run on port 5000.
 
-3. Navigate to URL http://localhost:5000
+3. Navigate to URL http://127.0.0.1:5000/
 
 Upload the image and check for the output value returned by the model.
